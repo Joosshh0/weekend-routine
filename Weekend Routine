@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Weekend Routine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 2rem;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 2rem;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #333;
+            color: white;
+        }
+        caption {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <caption>My Weekend Routine</caption>
+        <thead>
+            <tr>
+                <!-- Column headers -->
+                <th>Time</th>
+                <th>Activity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <!-- First row -->
+                <td>8:00 AM</td>
+                <td>Wake up and have breakfast</td>
+            </tr>
+            <tr>
+                <!-- Second row -->
+                <td>9:00 AM</td>
+                <td>Go for a run</td>
+            </tr>
+            <tr>
+                <!-- Third row -->
+                <td>11:00 AM</td>
+                <td>Read a book</td>
+            </tr>
+            <tr>
+                <!-- Fourth row -->
+                <td>1:00 PM</td>
+                <td>Have lunch</td>
+            </tr>
+            <tr>
+                <!-- Fifth row -->
+                <td>2:00 PM</td>
+                <td>Work on a personal project</td>
+            </tr>
+            <tr>
+                <!-- Sixth row -->
+                <td>6:00 PM</td>
+                <td>Prepare and have dinner</td>
+            </tr>
+            <tr>
+                <!-- Seventh row -->
+                <td>7:00 PM</td>
+                <td>Watch a movie or TV show</td>
+            </tr>
+            <tr>
+                <!-- Eighth row -->
+                <td>10:00 PM</td>
+                <td>Go to bed</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
